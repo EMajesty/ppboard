@@ -1,6 +1,6 @@
 # ppboard
 
-is a parametric openscad pedalboard utilising aluminum extrusions and 3d printed bits.
+Parametric OpenSCAD pedalboard using aluminum extrusions and 3D-printed parts.
 
-- [ ] STLs out
-- [ ] HW BOM out
+- [ ] STL generation
+- [ ] Hardware BOM generation

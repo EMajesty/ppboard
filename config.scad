@@ -5,3 +5,6 @@ extrusion = "2020";
 clearance_loose = 0.35;
 clearance_tight = 0.15;
 wall = 4;
+
+max_print_width = 320;
+max_print_depth = 320;
